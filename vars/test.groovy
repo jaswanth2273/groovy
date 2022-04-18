@@ -1,1 +1,3 @@
-echo "newdd test"
+def call() {
+  echo "Hello"
+}
